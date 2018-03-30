@@ -19,6 +19,7 @@ public class zzh {
 	public static void main(String[] args) {
 		System.out.println("打击");
 		System.out.println("渣渣向");
+		System.out.println("大家好我是渣渣辉");
 	}
 
 }
