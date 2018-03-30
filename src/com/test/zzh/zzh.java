@@ -18,6 +18,7 @@ package com.test.zzh;
 public class zzh {
 	public static void main(String[] args) {
 		System.out.println("打击");
+		System.out.println("渣渣向");
 	}
 
 }
