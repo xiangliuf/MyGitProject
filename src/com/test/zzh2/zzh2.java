@@ -17,7 +17,14 @@ package com.test.zzh2;
  */
 public class zzh2 {
 	public static void main(String[] args) {
-		System.out.println("大家好我只渣渣辉，贪玩蓝月等你来");
+		
+		for (int i=0;i>100;i++) {
+			System.out.println("大家好我只渣渣辉，贪玩蓝月等你来"+i);
+			System.out.println("大家好我只渣渣辉，贪玩蓝月等你来"+i);
+			System.out.println("大家好我只渣渣辉，贪玩蓝月等你来"+i);
+			System.out.println("大家好我只渣渣辉，贪玩蓝月等你来"+i);
+			System.out.println("大家好我只渣渣辉，贪玩蓝月等你来"+i);
+		}
 	}
 
 }
