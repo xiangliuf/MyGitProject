@@ -20,5 +20,6 @@
 
 	<modules>
 	  <module>xiangliuf.alipayPay</module>
+		<module>MyDDD</module>
 	</modules>
 </project>
